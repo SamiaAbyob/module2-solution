@@ -134,12 +134,17 @@
   }
 }
 
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 
 
 
 h1{
     text-align: center;
     margin: 30px;
+    
 }
 .row{
     width: 100%;
